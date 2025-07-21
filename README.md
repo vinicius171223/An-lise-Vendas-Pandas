@@ -1,2 +1,2 @@
-# An-lise-Vendas-Pandas
+# Analise-Vendas-Pandas
 Análise de vendas usando Pandas em Python
